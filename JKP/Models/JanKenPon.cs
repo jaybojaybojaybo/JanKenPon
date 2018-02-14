@@ -34,8 +34,9 @@ namespace JanKenPon.Models
       return winState;
     }
 
-    public void SetWinState(bool winner)
+    public void SetWinState(string player1, string player2)
     {
+      bool winner = false;
       if(_player1JKP == "Rock" && _player2JKP == "Scissors")
       {
         winner = true;
@@ -62,10 +63,5 @@ namespace JanKenPon.Models
       }
       winState = winner;
     }
-
-    // private static class Keyboard()
-    // {
-    //   KeyboardState newState = Keyboard.GetState();
-    // }
   }
 }

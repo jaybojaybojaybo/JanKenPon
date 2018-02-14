@@ -1,0 +1,8 @@
+/Users/Guest/Desktop/JKP.Solution/JKP/bin/Debug/netcoreapp1.1/JanKenPon.deps.json
+/Users/Guest/Desktop/JKP.Solution/JKP/bin/Debug/netcoreapp1.1/JanKenPon.runtimeconfig.json
+/Users/Guest/Desktop/JKP.Solution/JKP/bin/Debug/netcoreapp1.1/JanKenPon.runtimeconfig.dev.json
+/Users/Guest/Desktop/JKP.Solution/JKP/obj/Debug/netcoreapp1.1/JanKenPon.AssemblyInfo.cs
+/Users/Guest/Desktop/JKP.Solution/JKP/bin/Debug/netcoreapp1.1/JanKenPon.dll
+/Users/Guest/Desktop/JKP.Solution/JKP/bin/Debug/netcoreapp1.1/JanKenPon.pdb
+/Users/Guest/Desktop/JKP.Solution/JKP/obj/Debug/netcoreapp1.1/JanKenPon.dll
+/Users/Guest/Desktop/JKP.Solution/JKP/obj/Debug/netcoreapp1.1/JanKenPon.pdb

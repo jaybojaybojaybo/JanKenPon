@@ -1,0 +1,13 @@
+/Users/Guest/Desktop/JKP.Solution/JKP.Tests/bin/Debug/netcoreapp1.1/JanKenPon.Tests.deps.json
+/Users/Guest/Desktop/JKP.Solution/JKP.Tests/bin/Debug/netcoreapp1.1/JanKenPon.Tests.runtimeconfig.json
+/Users/Guest/Desktop/JKP.Solution/JKP.Tests/bin/Debug/netcoreapp1.1/JanKenPon.Tests.runtimeconfig.dev.json
+/Users/Guest/Desktop/JKP.Solution/JKP.Tests/obj/Debug/netcoreapp1.1/JanKenPon.Tests.AssemblyInfo.cs
+/Users/Guest/Desktop/JKP.Solution/JKP.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/Guest/Desktop/JKP.Solution/JKP.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/Guest/Desktop/JKP.Solution/JKP.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/Guest/Desktop/JKP.Solution/JKP.Tests/bin/Debug/netcoreapp1.1/JanKenPon.Tests.dll
+/Users/Guest/Desktop/JKP.Solution/JKP.Tests/bin/Debug/netcoreapp1.1/JanKenPon.Tests.pdb
+/Users/Guest/Desktop/JKP.Solution/JKP.Tests/bin/Debug/netcoreapp1.1/JanKenPon.dll
+/Users/Guest/Desktop/JKP.Solution/JKP.Tests/bin/Debug/netcoreapp1.1/JanKenPon.pdb
+/Users/Guest/Desktop/JKP.Solution/JKP.Tests/obj/Debug/netcoreapp1.1/JanKenPon.Tests.dll
+/Users/Guest/Desktop/JKP.Solution/JKP.Tests/obj/Debug/netcoreapp1.1/JanKenPon.Tests.pdb

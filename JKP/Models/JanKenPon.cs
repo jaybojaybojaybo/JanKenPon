@@ -9,6 +9,7 @@ namespace JanKenPon.Models
     private string _player2JKP;
     private bool winState;
 
+
     public string GetPlayer1JKP()
     {
       return _player1JKP;
@@ -16,7 +17,20 @@ namespace JanKenPon.Models
 
     public void SetPlayer1JKP(string selection)
     {
-      _player1JKP = selection;
+      string player1 = "";
+      if(selection == "c")
+      {
+        player1 = "Rock";
+      }
+      else if(selection == "d")
+      {
+        player1 = "Paper";
+      }
+      else if(selection == "e")
+      {
+        player1 = "Scissors";
+      }
+      _player1JKP = player1;
     }
 
     public string GetPlayer2JKP()
@@ -26,7 +40,20 @@ namespace JanKenPon.Models
 
     public void SetPlayer2JKP(string selection)
     {
-      _player2JKP = selection;
+      string player2 = "";
+      if(selection == "m")
+      {
+        player2 = "Rock";
+      }
+      else if(selection == "k")
+      {
+        player2 = "Paper";
+      }
+      else if(selection == "o")
+      {
+        player2 = "Scissors";
+      }
+      _player2JKP = player2;
     }
 
     public bool GetWinState()

@@ -1,10 +1,68 @@
 <!DOCTYPE html>
+
 <html>
   <head>
     <meta charset="utf-8">
-    <title></title>
+    <title>JanKenPon</title>
+    <script src="~/wwwroot/js/jquery-3.3.1.min.js"></script>
+    <script src="~/wwwroot/js/scripts.js"></script>
   </head>
   <body>
-
+    <div class="jumbotron">
+      <h1>JanKenPon</h1>
+    </div>
+    <div class="container">
+      <img src="https://www.wikihow.com/images/thumb/3/33/Play-Rock%2C-Paper%2C-Scissors-Step-5-Version-3.jpg/aid42597-v4-728px-Play-Rock%2C-Paper%2C-Scissors-Step-5-Version-3.jpg">
+      <h1>Rules of the Game</h1>
+      <div class="form-group" id="rules">
+        <h2>Rock beats Scissors</h2>
+        <h2>Scissors beats Paper</h2>
+        <h2>Paper beats Rock</h2>
+        <form action="/TheFists" method="post?">
+          <h3>Player1:</h3>
+          <ul>
+            <li>c = Rock</li>
+            <li>d = Paper</li>
+            <li>e = Scissors</li>
+          </ul>
+          <div id="player1keys">
+            <input id="player1" name="player1" type="text" autofocus="autofocus" onkeypress="player1choice()">
+              <!-- <script>
+              function player1choice()
+              {
+                if(keys[0] === true){
+                  document.getElementById('id1').value='c';
+                } else if(keys[1] === true) {
+                  document.getElementById('id1').value='d';
+                } else if(keys[2] === true) {
+                  document.getElementById('id1').value='e';
+                }
+              }
+              </script> -->
+          </div>
+          <h3>Player2:</h3>
+          <ul>
+            <li>m = Rock</li>
+            <li>k = Paper</li>
+            <li>o = Scissors</li>
+          </ul>
+          <div id="player2keys">
+              <input id="player2" name="player2" type="text" autofocus="autofocus" onkeypress="player2choice()">
+              <!-- <script>
+              // function player2choice()
+              // {
+              //   if(keys[3] === true){
+              //     document.getElementById('id2').value='c';
+              //   } else if(keys[4] === true) {
+              //     document.getElementById('id2').value='d';
+              //   } else if(keys[5] === true) {
+              //     document.getElementById('id2').value='e';
+              //   }
+              // }
+              </script> -->
+              <button type="submit">Submit</button>
+          </form>
+        </div>
+      </div>
   </body>
 </html>
